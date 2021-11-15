@@ -1,0 +1,32 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #2e2e2e;
+}
+
+#jumbotron h1 {
+  color: #fff;
+}
+
+#Projects {
+  background-color: #2e2e2e;
+}
+#projects h2 {
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+}
+#contact h2 {
+  font-family: 'Poppins', sans-serif;
+}
+#Contact {
+  background-color: #ffff;
+}
+
+footer {
+  font-family: 'Fira Sans', sans-serif;
+}
+section {
+  padding-top: 0rem;
+}
